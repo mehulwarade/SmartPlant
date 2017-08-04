@@ -25,7 +25,7 @@ void loop() {
              digitalWrite(LED_BUILTIN, LOW);    
             }
               else {
-              digitalWrite(LED_BUILTIN, LOW);   
+              digitalWrite(LED_BUILTIN, HIGH);   
              }
   }
 
